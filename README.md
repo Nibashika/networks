@@ -1,6 +1,6 @@
 # networks
 ## Aim:
-To develop a fraud detection system for bank transactions using ensemble machine learning techniques, incorporating data preprocessing, feature selection, model evaluation, and deployment in a Flask-based web application, with integrated Exploratory Data Analysis (EDA) for insights.
+To develop a fraud detection system for bank transactions using ensemble machine learning techniques, incorporating data preprocessing, feature selection, model evaluation, and deployment in a Flask-based web application, with integrated Exploratory Data Analysis (EDA) for insights. 
 
 ## Data Creation:
 ```
