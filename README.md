@@ -1,7 +1,6 @@
 # networks
 ## Aim:
-To develop a fraud detection system for bank transactions using ensemble machine learning techniques, incorporating data preprocessing, feature selection, model evaluation, and deployment in a Flask-based web application, with integrated Exploratory Data Analysis (EDA) for insights. 
-
+The aim of the code is to create a personalized book recommendation system where users can register, log in, and receive book recommendations based on the ratings of similar users using a k-Nearest Neighbors (k-NN) algorithm.
 ## Data Creation:
 ```
 import pandas as pd
@@ -292,4 +291,4 @@ if __name__ == '__main__':
 ```
 
 ## Result:
-The fraud detection system accurately classifies bank transactions using ensemble machine learning models, achieving high performance with precision, recall, F1-score, and ROC-AUC metrics. The Flask-based web app enables real-time predictions and EDA visualizations, enhancing fraud prevention in banking
+Users can register and log in to view personalized book recommendations on a web app. The recommendations are generated based on the ratings of similar users, and the system ensures users only see books they haven't rated yet. The app stores user details in a database and manages user sessions for a personalized experience.
